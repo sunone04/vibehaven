@@ -1,11 +1,8 @@
 # API 文档
 
-> 接口契约。Agent 在此获取 API 的请求/响应形状与约束。
-> 原则：接口是契约，变更须记录到 [docs/Decisions/](../Decisions/index.md)。
+接口契约。Agent 在此获取 API 的请求/响应形状与约束。接口变更须记录到 [docs/Decisions/](../Decisions/index.md)。
 
 ## 约定
-
-> 登记 API 全局约定：版本策略、认证方式、错误格式、分页等。
 
 - 基础路径：_待填写_
 - 版本策略：_待填写_
